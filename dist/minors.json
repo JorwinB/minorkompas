@@ -1,0 +1,129 @@
+{
+  "collected_at": "2026-10-15",
+  "method": "Handmatig gestructureerd uit zoekmachine-index van Kies op Maat. Directe scrape geblokkeerd (HTTP 401).",
+  "live_verified": false,
+  "minors": [
+    {
+      "id": "143574",
+      "title": "Cyber Security: Weerbaar tegen cybercrime",
+      "institution": "Avans Hogeschool",
+      "url": "https://www.kiesopmaat.nl/modules/avans/ATIX/143574/",
+      "tags": [
+        "cyber"
+      ],
+      "summary": "Onderzoekt hoe je jezelf en organisaties tegen cybercriminaliteit beschermt.",
+      "admission": null
+    },
+    {
+      "id": "142678",
+      "title": "Cyber Security",
+      "institution": "Hogeschool Inholland",
+      "url": "https://www.kiesopmaat.nl/modules/Inholland/TOI/142678/",
+      "tags": [
+        "cyber"
+      ],
+      "summary": "Verbindt technische kennis van cybersecurity met de samenwerking tussen technische medewerkers en management.",
+      "admission": null
+    },
+    {
+      "id": "139439",
+      "title": "Ondernemerschap",
+      "institution": "Hogeschool Utrecht",
+      "url": "https://www.kiesopmaat.nl/modules/hu/IMC/139439/",
+      "tags": [
+        "ondernemen"
+      ],
+      "summary": "Richt zich op ondernemende studenten die actief aan hun toekomst willen werken.",
+      "admission": null
+    },
+    {
+      "id": "9021",
+      "title": "Ondernemerschap",
+      "institution": "Fontys",
+      "url": "https://www.kiesopmaat.nl/modules/fontys/-/9021/",
+      "tags": [
+        "ondernemen"
+      ],
+      "summary": "Je ontwikkelt een eigen idee of bedrijf met begeleiding van ervaren ondernemers.",
+      "admission": null
+    },
+    {
+      "id": "145365",
+      "title": "Ondernemerschap",
+      "institution": "Hogeschool van Amsterdam",
+      "url": "https://www.kiesopmaat.nl/modules/hva/FBE/145365/",
+      "tags": [
+        "ondernemen"
+      ],
+      "summary": "Je start vanuit een eigen idee met een klein team een onderneming.",
+      "admission": null
+    },
+    {
+      "id": "141498",
+      "title": "Creatief denken en ontwerpen",
+      "institution": "HZ University of Applied Sciences",
+      "url": "https://www.kiesopmaat.nl/modules/hzee/HEW/141498/",
+      "tags": [
+        "creatief"
+      ],
+      "summary": "Je verkent nieuwe mogelijkheden en oplossingen door creatief te denken en te ontwerpen.",
+      "admission": null
+    },
+    {
+      "id": "141501",
+      "title": "De herstelgerichte professional",
+      "institution": "HZ University of Applied Sciences",
+      "url": "https://www.kiesopmaat.nl/modules/hzee/HEW/141501/",
+      "tags": [
+        "zorg"
+      ],
+      "summary": "Richt zich op ondersteuning van mensen met psychische problemen, een verstandelijke beperking of hersenletsel.",
+      "admission": null
+    },
+    {
+      "id": "143448",
+      "title": "Minor Aarde en duurzaamheid",
+      "institution": "Open Universiteit",
+      "url": "https://www.kiesopmaat.nl/modules/ou/Beta/143448/",
+      "tags": [
+        "duurzaam"
+      ],
+      "summary": "Je onderzoekt klimaat, biodiversiteit en de invloed van mensen op het milieu.",
+      "admission": null
+    },
+    {
+      "id": "140217",
+      "title": "Circulaire Economie (locatie Enschede)",
+      "institution": "Saxion",
+      "url": "https://www.kiesopmaat.nl/modules/saxion/SFIB/140217/",
+      "tags": [
+        "duurzaam",
+        "ondernemen"
+      ],
+      "summary": "Je werkt aan circulaire bedrijfsmodellen, materiaalgebruik en het organiseren van duurzame oplossingen.",
+      "admission": null
+    },
+    {
+      "id": "141429",
+      "title": "Business Analytics deel 1",
+      "institution": "HZ University of Applied Sciences",
+      "url": "https://www.kiesopmaat.nl/modules/hzee/AvEM/141429/",
+      "tags": [
+        "data"
+      ],
+      "summary": "Je leert hoe organisaties gegevens analyseren en benutten bij beslissingen.",
+      "admission": null
+    },
+    {
+      "id": "141802",
+      "title": "Business Management Analytics",
+      "institution": "Hogeschool Utrecht",
+      "url": "https://www.kiesopmaat.nl/modules/hu/IIBS/141802/",
+      "tags": [
+        "data"
+      ],
+      "summary": "Je ontwikkelt vaardigheden in bedrijfsdata, business intelligence en analyse.",
+      "admission": null
+    }
+  ]
+}
